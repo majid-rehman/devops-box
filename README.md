@@ -12,7 +12,7 @@
 
 
 ```
-https://github.com/majidkhan138/devops-box.git && cd devops-box
+git clone https://github.com/majidkhan138/devops-box.git && cd devops-box
 ```
 
 **3. Start Vagrant:**
